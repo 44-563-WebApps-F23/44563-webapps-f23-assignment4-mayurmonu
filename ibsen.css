@@ -1,0 +1,21 @@
+.MRS.ALVING {
+    color: yellow;
+    font-size: 100%;
+    font-family: Courier;
+}
+.OSWALD {
+  color: violet;
+    font-size: 100%;
+    font-family: Courier;
+}
+.speech{
+    color:black;
+    font-size: 80%;
+    font-family: verdana;
+}
+.direction {
+    background-color: darkblue;
+  }
+.direction:hover{
+    background-color: grey;
+}
