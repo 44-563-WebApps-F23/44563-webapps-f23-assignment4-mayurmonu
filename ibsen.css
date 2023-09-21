@@ -34,3 +34,12 @@
   }
   .tr:nth-child(even) {
     background-color: rgb(21,219,203); /* Row stripes for odd rows */
+  }
+  .MRS_ALVING:hover{
+    text-shadow:6px 7px 5px rgb(180,63,63);
+    border:solid 2px orange
+  }
+.OSWALD:hover{
+  text-shadow:6px 7px 5px rgb(180,63,63);
+    border:solid 2px orange
+}
